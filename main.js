@@ -10,4 +10,4 @@ var x = 20;
 
 var z = 20;
 
-var y;
+var y = 10;
